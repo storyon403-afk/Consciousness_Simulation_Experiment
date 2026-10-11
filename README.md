@@ -2,4 +2,4 @@
 Is consciousness the product of the system's continuous operation?
 
 ## docs
-[Explore](./Explore(EN)) [Expore(CN)](./Explore(CN))
+[Explore](./Explore(EN).md) [Expore(CN)](./Explore(CN).md)
